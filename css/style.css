@@ -11,12 +11,8 @@
   color: #7d97ad
 }
 
-/*.headertext {
-  color: #2d3c49
-}*/
-
 .header {
-font-family: 'Open sans';
+font-family: "Open sans";
 color: #2d3c49
 }
 
@@ -36,9 +32,9 @@ padding-top: 20px;
 
 .img-fluid {
   max-width: 100%;
-  height:auto;
+  height: auto;
 }
 
-.maincontent_container {
+/*.maincontent_container {
   margin: 100px;
-}
+} /*<<<<<<<this class was made to make the whole project better viewable on the webpage for testing*/
